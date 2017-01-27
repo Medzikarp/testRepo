@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c95ea53-5ba7-4deb-a3cd-c4fd2c882990" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testRepo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/testRepo_war_exploded.xml" />
-    </list>
+    <list default="true" id="8c95ea53-5ba7-4deb-a3cd-c4fd2c882990" name="Default" comment="" />
     <ignored path="testRepo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -246,12 +243,12 @@
       <created>1485528745869</created>
       <option name="number" value="Default" />
       <updated>1485528745869</updated>
-      <workItem from="1485528750888" duration="47000" />
+      <workItem from="1485528750888" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47000" />
+    <option name="totallyTimeSpent" value="225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2572" height="1416" extended-state="0" />
